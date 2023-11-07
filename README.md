@@ -8,4 +8,6 @@ El principio detrás de este modelo, cosiste en los siguientes pasos:
 4. Se cambia el *centro* del grupo tomando el promedio de la posición de todos los puntos.
 5. Repetir los pasos 2, 3 y 4 hasta que los *centros* dejen de cambiar.
 
-En el repositorio se subió una Notebook de Jupyter con los pasos realizados en el código, además de 2 codigos en Python de este mismo modelo.
+En el repositorio se subió una Notebook de Jupyter, *K-means_exampleipynb.ipynb* con los pasos realizados en el código, además de 2 codigos en Python de este mismo modelo.
+El archivo *example.py*, es una implementación con datos hardcodeados para probar la librería.
+El archivo *kmeans_xor.py*, es el modelo implementado datos sacados de un dataset de pruebas. 
